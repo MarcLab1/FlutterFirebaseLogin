@@ -1,0 +1,5 @@
+macos/Flutter/GeneratedPluginRegistrant.swift
+lib/auth/secrets.dart
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+lib/core/firebase_options.dart
